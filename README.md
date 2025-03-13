@@ -44,26 +44,26 @@ Am vierten Tag machte ich einige Tests mit variabeln an **`meinscript.sh`**. Ich
 In dieser Übung lernte ich, wie man Variablen initialisiert und wie man sie danach aufruft.[variablen.sh](https://github.com/maelseewal/122_Modul/blob/main/variablen.sh)
 
 **Wichtige Variabeln**
-Ich hab diese Varabeln auf GitLab gesehen und hab sie eingefügt weil ic denke das sie wichtig sind.
-**`$LOGNAME`** - Login-Name des Benutzers
-**`$0`** - Der Name des aufgerufenen Shellscripts
-**`$1 - $9, ${10}, ... , $*`** - Parameter des aufgerufenen Shellscripts
-**`$#`** - Anzahl Parameter des aufgerufenen Shellscripts
-**`$$`** - Die Prozessnummer des aufgerufenen Shellscripts
-**`$?`** - Der Beendigungsstatus eines Shellscripts
-**`$!`** - Die Prozessnummer des zuletzt gestarteten Hintergrundprozesses
-**`$PWD`** - Aktuelles Arbeitsverzeichnis
-**`$OLDPWD`** - Der Wert ist das zuvor besuchte Arbeitsverzeichnis; wird vom Kommando `cd` gesetzt.
-**`$HOME`** - Heimverzeichnis für den Benutzer; Standardwert für `cd`
+Ich hab diese Varabeln auf GitLab gesehen und hab sie eingefügt weil ic denke das sie wichtig sind.  
+**`$LOGNAME`** - Login-Name des Benutzers  
+**`$0`** - Der Name des aufgerufenen Shellscripts  
+**`$1 - $9, ${10}, ... , $*`** - Parameter des aufgerufenen Shellscripts  
+**`$#`** - Anzahl Parameter des aufgerufenen Shellscripts  
+**`$$`** - Die Prozessnummer des aufgerufenen Shellscripts  
+**`$?`** - Der Beendigungsstatus eines Shellscripts  
+**`$!`** - Die Prozessnummer des zuletzt gestarteten Hintergrundprozesses  
+**`$PWD`** - Aktuelles Arbeitsverzeichnis  
+**`$OLDPWD`** - Der Wert ist das zuvor besuchte Arbeitsverzeichnis; wird vom Kommando `cd` gesetzt.  
+**`$HOME`** - Heimverzeichnis für den Benutzer; Standardwert für `cd`  
 **`$UID`** - Die User-ID des Anwenders. Diese Kennung ist in der Datei `/etc/passwd` dem Benutzernamen zugeordnet.
 **`$PATH`** - Suchpfad für die Kommandos (Programme); meistens handelt es sich um eine durch Doppelpunkte getrennte Liste von Verzeichnissen, in denen nach einem Kommando gesucht wird, das ohne Pfadangabe aufgerufen wurde; Standardwerte: `PATH=:/bin:/usr/bin`
-**`$CDPATH`** - Suchpfad für das `cd`-Kommando
-**`$SHELL`** - Zeigt die aktuelle Shell mit dem Pfad an
-**`$RANDOM`** - Pseudo-Zufallszahl zwischen 0 bis 32767
-**`$REPLY`** - Bei Menüs (`select`) enthält `REPLY` die ausgewählte Nummer.
+**`$CDPATH`** - Suchpfad für das `cd`-Kommando  
+**`$SHELL`** - Zeigt die aktuelle Shell mit dem Pfad an  
+**`$RANDOM`** - Pseudo-Zufallszahl zwischen 0 bis 32767  
+**`$REPLY`** - Bei Menüs (`select`) enthält `REPLY` die ausgewählte Nummer.  
 **`$SECONDS`** - Enthält die Anzahl von Sekunden, die seit dem Start (Login) der aktuellen Shell vergangen ist.
 **`$PROMPT_COMMAND`** - Hier kann ein Kommando angegeben werden, das vor jeder Eingabeaufforderung automatisch ausgeführt wird.
-**`$PS1`** - Primärer Prompt; Prompt zur Eingabe von Befehlen.
+**`$PS1`** - Primärer Prompt; Prompt zur Eingabe von Befehlen.  
 **`$TZ`** - Legt die Zeitzone fest (hierzulande MET = Middle European Time)
 
 **Operatoren**
