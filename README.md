@@ -27,3 +27,14 @@ Mit `cat` kann man den Inhalt einer Datei im Terminal ausgeben. Es eignet sich b
 Der Befehl `touch` erstellt eine neue, leere Datei. Falls die Datei bereits existiert, wird lediglich der Zeitstempel aktualisiert.
 
 Durch das Arbeiten mit diesen Befehlen bekam ich ein besseres Verständnis für das Linux-Dateisystem und die Navigation im Terminal wurde immer einfacher.
+
+## TAG 3
+
+Am dritten Tag machte ich mein Repository. Ich erstellte das README und eergänzte die ersten zwei Tage. Dannach erstellte ich mein erstes Script was nicht so schwierig war.
+
+**Übung Mein erstes Script**
+Diese Übung war sehr hillfreich, weil ich lernte wie man ein script aufsetzt.
+
+## TAG 4
+
+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
