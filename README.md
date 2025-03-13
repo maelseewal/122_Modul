@@ -34,7 +34,8 @@ Am dritten Tag machte ich mein Repository. Ich erstellte das README und eergänz
 
 **Übung Mein erstes Script**
 Diese Übung war sehr hillfreich, weil ich lernte wie man ein script aufsetzt.
+[meinscript.sh](https://github.com/maelseewal/122_Modul/blob/main/meinscript.sh)
 
 ## TAG 4
 
-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
+Am vierten Tag machte ich einige Tests mit variabeln an **`meinscript.sh`**. Ich machte eine Variabel **`name`** und setze sie in eine echo befehl ein. Dannach speicherte ich die datei als **`meinscript2.sh`**.
