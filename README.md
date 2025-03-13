@@ -39,3 +39,6 @@ Diese Übung war sehr hillfreich, weil ich lernte wie man ein script aufsetzt.
 ## TAG 4
 
 Am vierten Tag machte ich einige Tests mit variabeln an **`meinscript.sh`**. Ich machte eine Variabel **`name`** und setze sie in eine echo befehl ein. Dannach speicherte ich die datei als **`meinscript2.sh`**.
+
+**Übung Variabeln**
+In dieser Übung lernte ich, wie man Variablen initialisiert und wie man sie danach aufruft.[variablen.sh](https://github.com/maelseewal/122_Modul/blob/main/variablen.sh)
