@@ -38,7 +38,7 @@ Diese Übung war sehr hillfreich, weil ich lernte wie man ein script aufsetzt.
 
 ## TAG 4
 
-Am vierten Tag machte ich einige Tests mit variabeln an **`meinscript.sh`**. Ich machte eine Variabel **`name`** und setze sie in eine echo befehl ein. Dannach speicherte ich die datei als **`meinscript2.sh`**.
+Am vierten Tag machte ich einige Tests mit variabeln an **`meinscript.sh`**. Ich machte eine Variabel **`name`** und setze sie in eine echo befehl ein. Dannach speicherte ich die datei als **`meinscript2.sh`**. Am Ende schaute ich noch die Operatoren an und wie man in Bash rechnet. Ich probirte dies in der **`rechnen.sh`**.
 
 **Übung Variabeln**
 In dieser Übung lernte ich, wie man Variablen initialisiert und wie man sie danach aufruft.[variablen.sh](https://github.com/maelseewal/122_Modul/blob/main/variablen.sh)
@@ -46,41 +46,26 @@ In dieser Übung lernte ich, wie man Variablen initialisiert und wie man sie dan
 **Wichtige Variabeln**
 Ich hab diese Varabeln auf GitLab gesehen und hab sie eingefügt weil ic denke das sie wichtig sind.
 **`$LOGNAME`** - Login-Name des Benutzers
-
 **`$0`** - Der Name des aufgerufenen Shellscripts
-
 **`$1 - $9, ${10}, ... , $*`** - Parameter des aufgerufenen Shellscripts
-
 **`$#`** - Anzahl Parameter des aufgerufenen Shellscripts
-
 **`$$`** - Die Prozessnummer des aufgerufenen Shellscripts
-
 **`$?`** - Der Beendigungsstatus eines Shellscripts
-
 **`$!`** - Die Prozessnummer des zuletzt gestarteten Hintergrundprozesses
-
 **`$PWD`** - Aktuelles Arbeitsverzeichnis
-
 **`$OLDPWD`** - Der Wert ist das zuvor besuchte Arbeitsverzeichnis; wird vom Kommando `cd` gesetzt.
-
 **`$HOME`** - Heimverzeichnis für den Benutzer; Standardwert für `cd`
-
 **`$UID`** - Die User-ID des Anwenders. Diese Kennung ist in der Datei `/etc/passwd` dem Benutzernamen zugeordnet.
-
 **`$PATH`** - Suchpfad für die Kommandos (Programme); meistens handelt es sich um eine durch Doppelpunkte getrennte Liste von Verzeichnissen, in denen nach einem Kommando gesucht wird, das ohne Pfadangabe aufgerufen wurde; Standardwerte: `PATH=:/bin:/usr/bin`
-
 **`$CDPATH`** - Suchpfad für das `cd`-Kommando
-
 **`$SHELL`** - Zeigt die aktuelle Shell mit dem Pfad an
-
 **`$RANDOM`** - Pseudo-Zufallszahl zwischen 0 bis 32767
-
 **`$REPLY`** - Bei Menüs (`select`) enthält `REPLY` die ausgewählte Nummer.
-
 **`$SECONDS`** - Enthält die Anzahl von Sekunden, die seit dem Start (Login) der aktuellen Shell vergangen ist.
-
 **`$PROMPT_COMMAND`** - Hier kann ein Kommando angegeben werden, das vor jeder Eingabeaufforderung automatisch ausgeführt wird.
-
 **`$PS1`** - Primärer Prompt; Prompt zur Eingabe von Befehlen.
-
 **`$TZ`** - Legt die Zeitzone fest (hierzulande MET = Middle European Time)
+
+**Operatoren**
+In dieser Übung lernte ich, wie man mit Variablen und bash rechnen kann und wie man das dann ausgibt.
+[rechnen.sh](https://github.com/maelseewal/122_Modul/blob/main/rechnen.sh)
