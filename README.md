@@ -69,3 +69,7 @@ Ich hab diese Varabeln auf GitLab gesehen und hab sie eingefügt weil ic denke d
 **Operatoren**
 In dieser Übung lernte ich, wie man mit Variablen und bash rechnen kann und wie man das dann ausgibt.
 [rechnen.sh](https://github.com/maelseewal/122_Modul/blob/main/rechnen.sh)
+
+## TAG 5
+
+Am Fünften tag machten wir if/else statments und while schleifen. ich hab Dazu je ein File gemacht einmal das [ifthen.sh](https://github.com/maelseewal/122_Modul/blob/main/ifthen.sh) und das [while.sh](https://github.com/maelseewal/122_Modul/blob/main/while.sh). Dannach hatten wir die Prüfung die ich so nicht erwartete.
