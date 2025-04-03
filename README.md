@@ -73,3 +73,9 @@ In dieser Übung lernte ich, wie man mit Variablen und bash rechnen kann und wie
 ## TAG 5
 
 Am Fünften tag machten wir if/else statments und while schleifen. ich hab Dazu je ein File gemacht einmal das [ifthen.sh](https://github.com/maelseewal/122_Modul/blob/main/ifthen.sh) und das [while.sh](https://github.com/maelseewal/122_Modul/blob/main/while.sh). Dannach hatten wir die Prüfung die ich so nicht erwartete.
+
+## TAG 6
+
+Am sechsten Tag machten wir in Gruppen Cheat-Sheets zu einem Thema. Wir erstellten ein Cheat-Sheet zum Thema `grep`. Dabei entstand ein PDF mit Beschreibungen und praxisnahen Codebeispielen. Am Ende gab es eine umfassende Zusammenfassung zu `grep`: [Was_ist_GREP.pdf](https://github.com/maelseewal/122_Modul/blob/main/Was_ist_GREP.pdf).
+
+Danach hatte ich die mündliche Prüfung, bei der ich denke, dass ich nicht so gut abgeschnitten habe.
